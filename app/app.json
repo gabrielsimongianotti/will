@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Nome do seu app",
+    "slug": "slug-do-seu-app",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "icon": "./assets/drone.png",
+    "splash": {
+      "image": "./assets/drone.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
