@@ -1,7 +1,7 @@
 # will
 
 ## 🚗💨 Personal Project: ESP32 Remote-Controlled Car with React Native App 📱  
-**2 years ago • Visible to anyone on or off LinkedIn**
+
 
 Recently, I worked on an exciting personal project: building a remote-controlled car using an **ESP32** and a **React Native** mobile app.  
 It was amazing to see how technology can turn ideas into reality. 💡  
@@ -20,10 +20,10 @@ The challenges along the way taught me a lot, but seeing the project come to lif
 - **Node.js (for testing connection logic)**
 
 ---
+https://media.licdn.com/dms/image/v2/D4D05AQH10pyIBgv9sw/videocover-high/videocover-high/0/1694137515748?e=1763546400&v=beta&t=ND49nYAM47aDFc0LGmoHei6M9BFlJ4u190T6XjAvTxQ
 
 ### 📸 Preview
-
-![20230819_235852](https://github.com/gabrielsimongianotti/will/assets/26278442/19e38788-8872-47ef-ab85-9f80671d55c0)
+![20230819_235852](https://media.licdn.com/dms/image/v2/D4D05AQH10pyIBgv9sw/videocover-high/videocover-high/0/1694137515748?e=1763546400&v=beta&t=ND49nYAM47aDFc0LGmoHei6M9BFlJ4u190T6XjAvTxQ)
 
 ---
 
